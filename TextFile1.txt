@@ -1,0 +1,2 @@
+﻿Streamreader reades = new StreamReader("..\\..sample-input.txt");
+Console.SetIn(reader);
